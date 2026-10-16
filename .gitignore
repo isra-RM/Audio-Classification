@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+
+# Virtual environments
+.venv/
+
+# Dataset and data files
+Dataset/
+
+# Generated spectrograms
+spectrograms/
+
+# Training logs and experiment outputs
+logs/
+
+# Model checkpoints and weights
+*.ckpt
+
+# Generated plots
+*.png
+
+
+# IDE and editor settings
+.vscode/
